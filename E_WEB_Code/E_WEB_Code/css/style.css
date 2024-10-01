@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(238, 238, 180);
+    text-align: center;
+    font-size: 25px;
+    
+}
+.helloWorld{
+    background-color: red;
+}
+.printHeart{
+    background-color: red;
+    border-color: green;
+    border-bottom: 20%;
+    border-radius: 30%;
+    
+}
+
+.message1{
+    background-color: red;
+}
+
